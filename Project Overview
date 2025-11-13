@@ -1,0 +1,44 @@
+Employee Performance & Retention Dashboard
+
+Project Overview
+The Employee Performance & Retention Dashboard is an analytical tool built in Excel to help HR and management teams monitor workforce performance, engagement, and attrition patterns.  
+This project provides clear insights into how employee performance, training, and tenure impact overall retention and productivity.
+
+
+Objective
+The main goal of this dashboard is to:
+- Analyze employee performance across departments.
+- Identify key retention risks and attrition trends.
+- Measure training effectiveness and engagement levels.
+- Enable data-driven decisions for employee development and retention strategies.
+
+
+Tools & Technologies
+- Microsoft Excel  — for dashboard development  
+- PivotTables, Charts, and Slicers — for interactivity  
+- Data Cleaning & Transformation — using Excel formulas and structured tables  
+
+Key Insights & Analysis
+- Average Performance Score: 77.17 across all departments.  
+- Top Performing Department: Marketing with an average score of ~85.  
+- Employee Status: 83% active, 17% on probation.  
+- Retention Risk Distribution: 46% medium risk, 13% high risk.  
+- Average Monthly Sales: ₹3.38 lakh across all departments.  
+- Join Date Trend: Most employees joined during 2019–2021.  
+
+
+How This Dashboard Helps
+- Helps HR managers identify departments with low performance or high attrition.  
+- Enables proactive employee engagement initiatives based on risk levels.  
+- Supports data-driven workforce planning and training program optimization.  
+- Acts as a single source of truth for key HR performance metrics.
+
+
+Learnings
+Through this project, I learned how to:
+- Build an interactive and visually appealing HR analytics dashboard in Excel.
+- Use pivot tables, conditional formatting, and slicers for interactivity.
+- Translate HR metrics into actionable business insights.
+
+
+Author: Janvi Pawar
